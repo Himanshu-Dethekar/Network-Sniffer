@@ -1,5 +1,3 @@
-<think>
-First, the user is asking for a "read me for github" based on the context of building a basic network sniffer in Python on Kali VM. This is likely a README.md file for a GitHub repository containing the sniffer code.
 
 </think># Basic Network Sniffer
 
@@ -102,5 +100,6 @@ Contributions are welcome! Fork the repo, make changes, and submit a pull reques
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Disclaimer
+
 
 This tool is for educational and ethical use only. The author is not responsible for misuse. Always comply with local laws and obtain permission before sniffing networks.
